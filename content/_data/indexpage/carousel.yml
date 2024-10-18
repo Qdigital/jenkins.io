@@ -1,13 +1,50 @@
-# selected projects for GSoC 2023
-- :href: /blog/2023/05/04/gsoc2023-projects-announcement/
-  :title: Welcome to GSoC 2023!
-  :intro: Google Summer of Code 2023 includes 4 Jenkins projects. Congratulations to the selected GSoC contributors.
+# Hacktoberfest 2024
+- :href: https://hacktoberfest.com/
+  :title: Hacktoberfest 2024
+  :intro: Jenkins is participating in Hacktoberfest 2024. We are seeking contributors
+    and maintainers who want to join us to improve Jenkins in October!
   :image:
-    :src: /images/gsoc/gsoc_projects_contributors_selected.png
-    :height: 320px
+    :src: /images/hacktoberfest/hacktoberfest_2024_social_600x300.png
+    :height: 300px
   :call_to_action:
     :text: More info
-    :href: /blog/2023/05/04/gsoc2023-projects-announcement/
+    :href: "/events/hacktoberfest/"
+
+# Jenkins 2024 board and officer elections
+- :href: /blog/2024/09/25/board-officer-election-announcement/
+  :title: Voter registration for Jenkins Elections 2024
+  :intro: Voter registration has started for 2024 elections.
+    Register today to shape the future of Jenkins!
+  :image:
+    :src: /images/governance/elections/2024/2024-registrations-opengraph.svg
+    :height: 320px
+  :call_to_action:
+    :text: Register to vote!
+    :href: /blog/2024/09/25/board-officer-election-announcement/
+
+#
+- :href: https://devopsdozen.com/devops-dozen-2023-community-award-winners/
+  :title: Jenkins wins DevOps Dozen award
+  :intro: Jenkins has been awarded the
+    "Most innovative DevOps Open Source project" distinction
+    by DevOps Dozen.
+  :image:
+    :src: images/post-images/2024/9_Most_Innovative_DevOps_Open_Source_Project.png
+    :height: 285px
+  :call_to_action:
+    :text: More info
+    :href: https://devopsdozen.com/devops-dozen-2023-community-award-winners/
+- :href: https://contributors.jenkins.io/
+  :title: Meet the driving forces
+  :intro: behind Jenkins
+    as we showcase the top contributors shaping the
+    future of continuous integration and delivery.
+  :image:
+    :src: images/logos/jenkins/jenkins.png
+    :height: 285px
+  :call_to_action:
+    :text: More info
+    :href: https://contributors.jenkins.io/
 # Case Studies
 - :href: https://stories.jenkins.io/
   :title: Jenkins Stories!
